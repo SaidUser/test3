@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    background-color: azure;
+}
+
+
+
+
+ footer {
+    background-color: #301fed;
+    position: relative;/*относительное позиционирование*/
+    width: 100%;/*на всю ширину*/
+    padding: 100px 100px;/*поля для контента*/
+
+}
+
+
+
+.social  {
+    display: flex;
+    background-position: center;
+    float: right;
+    width:auto;
+}
+
+
+.Copyright{
+ position: absolute;
+ font-size: 13px;
+ font-family: sans-serif;
+ color: white;
+ width: 315px;
+ height: 64px;
+ left: 14%;
+}
+
+ 
