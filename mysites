@@ -1,0 +1,43 @@
+
+<html>
+  <head>
+    <title>My Sites</title>
+    <link rel="stylesheet" href="style3.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="mysites.html">Мои работы</a>
+    </header>
+    <main>
+         <nav>
+	     <a>Said Tadzhibaev</a>
+		 <a class="link-nav" href="home.html"><b>Главная</b></a>
+         <a class="link-nav" href="info.html"><b>Обо мне</b></a>
+		 </nav>
+      <h1>Мои сайты</h1>
+      <p class="text-big"><b>от конструктора Tilda до вёрстки на HTML и CSS</b></p>
+      <p><a class="link-text" href="http://project4669920.tilda.ws"><b></b></a></p>
+        <p><a class="link-text" href="https://kurs-ss-vilboa.github.io/-3-4-/"><b>Первая работа</b></a></p>
+        <p><a class="link-text" href="http://project4669920.tilda.ws/page2"><b>Моя вторая работа</b></a></p>
+      <p><a class="link-text" href="http://project4669920.tilda.ws/page3"><b>Третья работа</b></a></p>
+        <p><a class="link-text" href="https://nadvilboa.github.io/5-4-1/"><b>Сайт</b></a> семьи Самойловых, вёрстка по макету, отступы</p>
+        <p>Бонус: <a class="link-text" href="https://nadvilboa.github.io/-4-3_bonus/"><b>Сайт</b></a> турнира по киберспорту</p>
+
+    <h2> P.s. У меня есть работы на GitHub, и к сожалению не могу получить доступ в сам GitHub (то есть не могу войти). </h2>
+    </main>
+    <footer>
+     <p class="Copyright">Copyright © Said 2021-2022 | All Rights Reserved</p>
+       <div class="social-footer">
+          <div class="imgsocial">
+              <a class="social" title="Я в Дискорде: SaidMinecrafter#8034" href=""><img src="https://logosmarken.com/wp-content/uploads/2020/12/Discord-Emblem.png" height="60px"></a>
+           </div>
+           <div class="imgsocial">
+            <a class="social" title="Мой профиль в ВК" href="https://vk.com/said72cool"><img src="https://tavi-dent.ru/wp-content/uploads/2022/03/vk_parketservice.jpg" height="60px"/></a>
+           </div>
+           <div class="imgsocial">
+             <a class="social" title="Я в Телеграме (мой профиль)" href="https:/t.me/proshivalchikdevices_mcSaid"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" width="60px" height="60px"></a>
+           </div>
+       </div>
+    </footer>
+  </body>
+</html>
